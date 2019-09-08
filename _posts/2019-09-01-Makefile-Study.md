@@ -1,10 +1,10 @@
----
-layout: post
-title: "Makefile总结"
-date: 2019-09-01 
-description: "Makefile用法总结"
-tag: Makefile
----   
+---  
+layout: post  
+title: "Makefile总结"  
+date: 2019-09-01   
+description: "Makefile用法总结"  
+tag: Makefile  
+---     
 
 # Makefile总结  
 ## 第三层：隐含规则    
