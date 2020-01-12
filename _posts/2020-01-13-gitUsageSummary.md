@@ -7,7 +7,7 @@ tag: git
 ---
 # git 使用总结  
 
-## 更改git commit 默认编辑器GNU nano为vim  
+## １、更改git commit 默认编辑器GNU nano为vim  
 * 方法１
 ```
 git config --global core.editor vim
