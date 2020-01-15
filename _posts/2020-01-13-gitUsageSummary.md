@@ -19,3 +19,28 @@ git config --global core.editor vim
 ctrl + o 回车　保存
 ctrl + x 退出
 ```
+* 查看某人的提交记录
+````
+git log --author="kun.yi"
+````
+* 查看版本之间的diff
+````
+git diff ai5/master --stat board/app/appd/
+git diff ai5/master board/app/mcud/
+````
+* 清除master
+````
+git clean -dfx
+````
+* 查看log文件之间的不同
+````
+git log --stat
+````
+* 切换到某个提交
+````
+git checkout d12c06c66c56026a773936ceef59b8893d1e3395
+````
+* 创建分支
+```
+git checkout -b release-alpha-test
+```
