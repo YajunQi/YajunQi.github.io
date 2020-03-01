@@ -44,3 +44,18 @@ git checkout d12c06c66c56026a773936ceef59b8893d1e3395
 ```
 git checkout -b release-alpha-test
 ```
+* merge
+```
+git branch -a
+git fetch changjun
+git branch -a
+git merge changjun/mcu-redesign
+```
+* 拉取本地不存在的远端分支
+```
+git checkout -b new_branch origin/new_branch
+```
+* pull 本地库到远端
+```
+git pull origin 本地分支
+```
