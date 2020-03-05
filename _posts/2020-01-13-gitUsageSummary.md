@@ -58,4 +58,12 @@ git checkout -b new_branch origin/new_branch
 * pull 本地库到远端
 ```
 git pull origin 本地分支
+ai5	ssh://git@121.15.202.24:1022/ai5/mdvr.git (fetch)
+ai5	ssh://git@121.15.202.24:1022/ai5/mdvr.git (push)
+ai5_10	git@rdev.com:ai5/mdvr.git (fetch)
+ai5_10	git@rdev.com:ai5/mdvr.git (push)
+origin	ssh://git@121.15.202.24:1022/yajun.qi/mdvr.git (fetch)
+origin	ssh://git@121.15.202.24:1022/yajun.qi/mdvr.git (push)
+yajun	git@rdev.com:yajun.qi/mdvr.git (fetch)
+yajun	git@rdev.com:yajun.qi/mdvr.git (push)
 ```
