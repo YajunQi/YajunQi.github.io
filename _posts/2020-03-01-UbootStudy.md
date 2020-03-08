@@ -6,7 +6,6 @@ description: "uboot summary"
 tag: linux study
 ---
 # Uboot 学习总结   
-
 ```
 tftp 0x82000000 AI5-burn-hi3521d-V2.5.0-20200228-9c06ade.bin; sf probe 0; sf erase 0 1E00000; sf write 82000000 0 1E00000
 sf - SPI flash sub-system
