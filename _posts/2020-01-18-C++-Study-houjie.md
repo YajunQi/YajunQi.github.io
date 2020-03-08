@@ -5,6 +5,7 @@ date: 2020-01-18
 description: "C++ 学习"
 tag: Ｃ++
 ---
+
 # 2、头文件与类的声明　　
 
 ![](/images/posts/c++/2-1.png)  
