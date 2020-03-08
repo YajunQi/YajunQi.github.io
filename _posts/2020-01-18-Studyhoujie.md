@@ -7,6 +7,7 @@ tag: Ｃ++
 ---
 # 2、头文件与类的声明　　
 
+# 2、头文件与类的声明　
 ![](/images/posts/c++/2-1.png)  
 
 ![](/images/posts/c++/2-2.png)
